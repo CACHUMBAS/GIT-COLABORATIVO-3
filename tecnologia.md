@@ -5,4 +5,4 @@
 [Espacio reservado para el Alumno B]
 
 ## ⚙️ Backend (Servidor y Base de Datos)
-[Espacio reservado para el Alumno A]
+- Python: Es un lenguaje robusto, eficiente y muy intuitivo.
