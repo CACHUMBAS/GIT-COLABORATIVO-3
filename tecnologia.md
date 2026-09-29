@@ -5,4 +5,4 @@
 [Utiliza el lenguaje CSS y HTML para dar un diseño moderno y futuristico con unas animaciones novedosas y limpias.]
 
 ## ⚙️ Backend (Servidor y Base de Datos)
-[Espacio reservado para el Alumno A]
+- Python: Es un lenguaje robusto, eficiente y muy intuitivo.
