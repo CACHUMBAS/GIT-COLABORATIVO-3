@@ -5,7 +5,7 @@ Este repositorio contiene la resolución del ejercicio de flujo de trabajo colab
 ## Integrantes del Grupo
 
 * **Álvaro Alfocea**
-* **Francisco José Fernández**
+* **Francisco José Fernandez**
 * **Aitor Portales**
 
 ## Descripción de la Tarea
