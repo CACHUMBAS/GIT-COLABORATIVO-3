@@ -8,4 +8,4 @@
 - Python: Es un lenguaje robusto, eficiente y muy intuitivo.
 
 ## 🧱 Middle-end (Gestión y lógica)
-Elijo el lenguaje Python con el framework Django porque me parece un lenguaje muy completo y versátil, que nos permitirá desarrollar nuestra aplicación web de manera eficiente y profesional.
+Elijo el lenguaje NodeJS porque me parece un lenguaje muy completo y versátil, que nos permitirá desarrollar nuestra aplicación web de manera eficiente y profesional.
